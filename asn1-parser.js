@@ -139,4 +139,4 @@ Enc.numToHex = function (d) {
   return d;
 };
 
-}('undefined' !== typeof window ? window : module.exports));
+}(module.exports));
